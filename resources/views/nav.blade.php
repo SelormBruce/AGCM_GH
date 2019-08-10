@@ -1,5 +1,3 @@
-<a class="navbar-brand" href="/"><img src="{{asset('images/logo.jpg')}}" alt="logo" style="width:50px; height:50px; border-radius:100px;"></a>
- <li class="nav-item">
         <a class="nav-link active" href="/">Home</a>
       </li>
       <li class="nav-item">
@@ -20,3 +18,6 @@
           <li class="nav-item">
             <a class="nav-link"  href="#" tabindex="-1" >Donation</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link"  href="#" tabindex="-1" >Contact</a>
+  </li>
