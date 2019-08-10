@@ -3,17 +3,20 @@
         <a class="nav-link active" href="/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/Projects">Projects</a>
+        <a class="nav-link" href="#">Mission & Vision</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/programs">Programs</a>
+        <a class="nav-link" href="#">National Officers</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link"  href="/education" tabindex="-1" >Education</a>
+        <a class="nav-link"  href="#" tabindex="-1" >Chapters</a>
       </li>
       <li class="nav-item">
-              <a class="nav-link"  href="/contact" tabindex="-1" >Contact</a>
+              <a class="nav-link"  href="#" tabindex="-1" >Programs</a>
         </li>
         <li class="nav-item">
-                <a class="nav-link"  href="/articles" tabindex="-1" >Articles</a>
+                <a class="nav-link"  href="#" tabindex="-1" >Alumni</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="#" tabindex="-1" >Donation</a>
+      </li>
